@@ -125,9 +125,12 @@ font-size: 60px;
   color: #333;
 }
 
-.card p {
-  font-size: 0.95em;
+
+.desc-instrumentos {
   color: #555;
+  font-size: 1rem;
+  margin-top: 10px;
+  line-height: 1.4;
 }
 
 .card:hover {
@@ -201,4 +204,5 @@ font-size: 60px;
   position: relative;
   bottom: 0;
   width: 100%;
+
 }
